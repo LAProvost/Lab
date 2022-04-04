@@ -1,0 +1,35 @@
+---------------------------------------------(This one has .gitignore)
+		Tachiyomi 
+Link:
+https://github.com/tachiyomiorg/tachiyomi
+--Why I Like It--
+The reason why I am intereasted in this repo even tho I don't own an android
+is because I just really like anime and manga. Also it has dark theme and that is always a bonus.
+---------------------------------------------
+		Osu
+Link:
+https://github.com/ppy/osu
+--Why I Like It--
+The reason why I am intereasted in this repo is because I played osu before
+and it was fun so I might play it again with this. 
+---------------------------------------------
+		Hacking Tool
+Link:
+https://github.com/Z4nzu/hackingtool
+--Why I Like It--
+The reason why I am intereasted in this repo is because I know a friend who wants to become a white-hat hacker. Also to
+me hacking always seamed cool.
+---------------------------------------------
+		Twitch Ad Solutions
+Link:
+https://github.com/pixeltris/TwitchAdSolutions
+--Why I Like It--
+The reason why I am intereasted in this repo is because ads are always annyoing but on twich they are extra annyoing 
+because twitch tries it's best to stop ad blockers. While I don't use twitch that often it is still cool to see this.
+---------------------------------------------
+		90 Days Of Dev Ops
+Link:
+https://github.com/MichaelCade/90DaysOfDevOps
+--Why I Like It--
+The reason why I am intereasted in this repo is because it seemed cool and intereasting. 
+---------------------------------------------
